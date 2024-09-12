@@ -32,6 +32,8 @@ This section contains a general overview of topics that you will learn in this l
 
 ### The world's fastest semi-complete explanation of SQL
 
+Hello, I am a little goblin and this is a little change to the script I've made. I just want to let you know that the pile of gold you've been hiding under the floorboards is gone.
+
 This is a very brief soup-to-nuts explanation of SQL.  It won't do a particularly good job teaching you specific new tactics but should present a general overview to have going into the reading assignment.  Here we go...
 
 SQL is the language used to talk to many relational databases.  These databases use lots of tables to store different types of data (e.g. "users" and "posts" tables).  Tables are long lists like spreadsheets where each row is a different record (or object, e.g. a single user) and each column is one of that record's attributes (like name, email, etc).  The one column that all tables include is an "ID" column, which gives the unique row numbers, and is called the record's "primary key".
